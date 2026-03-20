@@ -1,0 +1,17 @@
+Ephemeral RAG Chatbot Demo
+
+Tech Stack:
+Frontend: Streamlit
+LLM: Ollama llama3.2:3b (local)
+Embeddings: all-MiniLM-L6-v2
+Vector search: FAISS CPU
+
+Features:
+- Privacy-first: sessions auto-delete
+- Grounded answers from your documents
+- Zero cloud dependency
+- Add new docs anytime
+
+Test questions:
+- What's the tech stack?
+- How does it stay private?
